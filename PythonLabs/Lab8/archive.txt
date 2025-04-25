@@ -1,0 +1,6 @@
+Book,B001,Title3,2021,Author1,100
+Book,B002,Title4,2021,Author2,300
+Article,A001,Title5,2017,Journal1,11.5432
+Article,A002,Title6,2017,Journal2,10.1234
+Podcast,P001,Title7,2012,Host1,60
+Podcast,P002,Title8,2012,Host2,180
